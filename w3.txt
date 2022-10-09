@@ -1,0 +1,14 @@
+Next token is: 0, Next lexeme is f
+Next token is: 3, Next lexeme is b
+Next token is: 1, Next lexeme is i
+Next token is: 3, Next lexeme is a
+Next token is: 3, Next lexeme is a
+Next token is: 4, Next lexeme is =
+Next token is: 7, Next lexeme is 5
+Next token is: 3, Next lexeme is b
+Next token is: 4, Next lexeme is =
+Next token is: 3, Next lexeme is a
+Next token is: 5, Next lexeme is +
+Next token is: 8, Next lexeme is 3.2
+Next token is: 2, Next lexeme is p
+Next token is: 3, Next lexeme is b
