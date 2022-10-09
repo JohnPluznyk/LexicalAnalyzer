@@ -1,2 +1,2 @@
 # Lexical Analyzer
-This is a coding project that will take lexemes from a .txt file and display the lexemes and what their functionality is.  In this repository you will find the main file along with some sample input and the expected outputs that this code should provide.
+This is a coding project that will take lexemes from a .txt file and display the lexemes and what their functionality is.  In this repository you will find the main file along with some sample input and the expected outputs that this code should provide. i1-i5 are sample input files while w1-w5 is the expected output files that this code should output.  When testing I used CMD along with a diff tool to make sure that I am getting the absoulute correct answer.
